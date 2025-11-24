@@ -1,5 +1,5 @@
-# pico-llm-ml
-Pico-LLM project for CSCI-GA.2565 Machine Learning
+# Causal Decoder-Only Transformer based LLM
+Pico-LLM Project for CSCI-GA.2565 Machine Learning
 
 ## Set up Python Environment
 
@@ -10,3 +10,4 @@ pip3 install torch torchvision --index-url https://download.pytorch.org/whl/cu12
 pip install datasets tiktoken
 ```
 
+![transformer](https://github.com/user-attachments/assets/c25eaff2-094e-42ec-865c-3fc27e46a551)
